@@ -15,7 +15,7 @@ django-cors-headers==2.1.0
 django-extensions==1.6.1
 django-rest-swagger==0.3.5
 django-seed==0.1.7
-djangorestframework==3.3.2
+djangorestframework==3.9.1
 djangorestframework-csv==2.0.0
 djangorestframework-jwt==1.11.0
 docopt==0.4.0
