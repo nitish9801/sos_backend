@@ -31,7 +31,7 @@ mandrill==1.0.57
 olefile==0.44
 pbr==3.1.1
 pyasn1==0.3.6
-PyJWT==1.5.2
+PyJWT==2.4.0
 PyMySQL==0.7.9
 pyotp==2.2.1
 python-dateutil==2.6.1
